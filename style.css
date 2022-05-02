@@ -3,6 +3,13 @@
 body {
     margin-left:10%;
     margin-right:20%;
+    background-color: azure;
+}
+
+footer {
+    width: 100%;
+    margin-left:10%;
+    margin-right:20%;
 }
 
 .titulo {
@@ -44,17 +51,17 @@ p {
 }
 
 .imgpubli {
-    width:300px;
-    margin-bottom:170px;
+    width:100%;
+    margin-bottom:10px;
+    display:flex;
 }
 
 .primer {
-    width:100px;
-    float:left;
+    width:50%;
 }
 .segundo {
-    width:200px;
-    float:left;
+    width:50%;
+    margin-left:60px;
 }
 
 span {
@@ -77,6 +84,27 @@ span {
 
 .negrita {
     font-weight: bold;
+}
+
+.titpie {
+    margin-bottom:20px;
+    text-align: center;
+}
+
+.imagenespie {
+    display:flex;
+    height: 250px;
+}
+
+.footer1 {
+    margin-right:5px;
+}
+
+.footer2 {
+    margin-right:5px;
+}
+.footer3 {
+    margin-right:5px;
 }
 
 
