@@ -1,0 +1,62 @@
+
+
+body {
+    margin-left:10%;
+    margin-right:20%;
+}
+
+.titulo {
+    font-size:xx-large;
+    font-weight: bolder;
+    margin-top:3%;
+    margin-bottom:2%;
+}
+
+.noticia {
+    margin-left:20%;
+    margin-right: 20%;
+}
+
+.primerimg {
+    width: 100%;
+    height: 500px;
+}
+
+.textoimg {
+    color:grey;
+    font-size: small;
+}
+
+.primerimg .textoimg {
+    margin-left:10%;
+    margin-right: 10%;
+}
+
+.imgpubli {
+    width:40%;
+    margin-left:-5%;
+}
+
+.textopubli {
+    
+    margin-left:40%;
+    font-weight:bold;
+}
+
+.derecha {
+    margin-left: 90%;
+    margin-top:30px;
+}
+
+.tercerimg {
+    width:600px;
+    height:400px;
+}
+
+.linea {
+    color:grey;
+}
+
+.negrita {
+    font-weight: bold;
+}
